@@ -102,7 +102,7 @@ sudo ./aws/install
     Jack Butler
     Godsend Cheung
 
-## NC State Advisors/Coordinators:
+## NC State Computer Science Advisors/Coordinators:
     Ms. Margaret R. Heil, Director & Advisor
     Dr. Jason King, Technical Advisor
     Dr. Aimee Allard, Communications Assistant
