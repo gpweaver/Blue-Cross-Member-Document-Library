@@ -102,12 +102,12 @@ sudo ./aws/install
     Jack Butler
     Godsend Cheung
 
-## Team Advisors/Coordinators:
+## NC State Advisors/Coordinators:
     Ms. Margaret R. Heil, Director & Advisor
     Dr. Jason King, Technical Advisor
     Dr. Aimee Allard, Communications Assistant
     Ms. Sonali Chaudhari, Teaching Assistant
 
-## Sponsor Coodinators:
+## Blue Cross Sponsors:
     Matthew Layko
     Trung Nguyen
